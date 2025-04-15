@@ -1,8 +1,8 @@
 name: My Example Module
-description: 'My test example module for development purpose and example.'
+description: "My test example module for development purpose and example."
 package: Example
 
-core: 8.x
+core_version_requirement: ^10 || ^11
 type: module
 
 dependencies:
